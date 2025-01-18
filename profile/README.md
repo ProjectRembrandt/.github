@@ -1,5 +1,5 @@
 ## Rembrandt Project - Personal extras
-<img align="right" width="180" height="180" src="https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1672036696.35998614.png">
+<img align="right" width="180" height="180" src="https://github.com/RembrandtProject/.github/blob/main/profile/RedmiK60E.png">
 
 This organization contains repositories to build AOSP ROMs for Redmi K60E (rembrandt) with personal additions and modifications over [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) and [XagaForge](https://github.com/XagaForge) trees.
 

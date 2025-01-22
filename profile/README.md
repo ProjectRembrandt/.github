@@ -8,7 +8,6 @@ This organization contains repositories to build AOSP ROMs for Redmi K60E (rembr
 * [**Device Tree (mt6895)**](https://github.com/RembrandtProject/android_device_xiaomi_mt6895-common.git) (`android_device_xiaomi_mt6895-common`)
 * [**Kernel Tree**](https://github.com/RembrandtProject/android_kernel_xiaomi_mt6895.git) (`android_kernel_xiaomi_mt6895`)
 * [**Firmware Tree**](https://github.com/RembrandtProject/android_vendor_firmware.git) (`android_vendor_firmware`)
-* [**MiuiCamera Tree**](https://github.com/RembrandtProject/proprietary_vendor_xiaomi_miuicamera-rembrandt.git) (`proprietary_vendor_xiaomi_miuicamera-rembrandt`)
 
 Repositories such as `android_hardware_mediatek`, `android_hardware_xiaomi` and `android_device_mediatek_sepolicy_vndr` remain unmodified and can be used directly from the [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) organization.
 

@@ -4,11 +4,15 @@
 This organization contains repositories to build AOSP ROMs for Redmi K60E (rembrandt) with personal additions and modifications over [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) and [XagaForge](https://github.com/XagaForge) trees.
 
 ### Repositories
-* [**Device Tree (rembrandt)**](https://github.com/RembrandtProject/android_device_xiaomi_rembrandt.git) (`android_device_xiaomi_rembrandt`)
-* [**Device Tree (mt6895)**](https://github.com/RembrandtProject/android_device_xiaomi_mt6895-common.git) (`android_device_xiaomi_mt6895-common`)
-* [**Vendor Tree (mt6895)**](https://github.com/RembrandtProject/android_vendor_xiaomi_mt6895-common.git) (`android_vendor_xiaomi_mt6895-common`)
-* [**Kernel Tree**](https://github.com/RembrandtProject/android_kernel_xiaomi_mt6895.git) (`android_kernel_xiaomi_mt6895`)
-* [**Firmware Tree**](https://github.com/RembrandtProject/android_vendor_firmware.git) (`android_vendor_firmware`)
+For Android 15 Build:
+* [**Device Tree (rembrandt)**](https://github.com/ProjectRembrandt/android_device_xiaomi_rembrandt.git) (`android_device_xiaomi_rembrandt`)
+* [**Device Tree (mt6895)**](https://github.com/ProjectRembrandt/android_device_xiaomi_mt6895-common.git) (`android_device_xiaomi_mt6895-common`)
+* [**Kernel Tree**](https://github.com/ProjectRembrandt/android_kernel_xiaomi_mt6895.git) (`android_kernel_xiaomi_mt6895`)
+
+For Android 14 Build:
+* [**Device Tree (rembrandt)**](https://github.com/ProjectRembrandt/device_xiaomi_rembrandt.git) (`device_xiaomi_rembrandt`)
+* [**Device Tree (mt6895)**](https://github.com/ProjectRembrandt/device_xiaomi_mt6895-common.git) (`device_xiaomi_mt6895-common`)
+* [**Kernel Tree**](https://github.com/ProjectRembrandt/kernel_xiaomi_mt6895.git) (`kernel_xiaomi_mt6895`)
 
 Repositories such as `android_hardware_mediatek`, `android_hardware_xiaomi` and `android_device_mediatek_sepolicy_vndr` remain unmodified and can be used directly from the [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) organization.
 

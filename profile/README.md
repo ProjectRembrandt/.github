@@ -4,7 +4,7 @@
 This organization contains repositories to build AOSP ROMs for Redmi K60E (rembrandt) with personal additions and modifications over [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) and [XagaForge](https://github.com/XagaForge) trees.
 
 ### Repositories
-For Android 15 Build:
+For Android 15 16 Build:
 * [**Device Tree (rembrandt)**](https://github.com/ProjectRembrandt/android_device_xiaomi_rembrandt.git) (`android_device_xiaomi_rembrandt`)
 * [**Device Tree (mt6895)**](https://github.com/ProjectRembrandt/android_device_xiaomi_mt6895-common.git) (`android_device_xiaomi_mt6895-common`)
 * [**Kernel Tree**](https://github.com/ProjectRembrandt/android_kernel_xiaomi_mt6895.git) (`android_kernel_xiaomi_mt6895`)
